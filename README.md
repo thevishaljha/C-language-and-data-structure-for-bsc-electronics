@@ -1,7 +1,7 @@
 # C-language-and-data-structure-for-bsc-electronics
 Here, I will share C language - codes, which is necessary for ECE or BSc Electronics Student , along with data structure. 
 The syllabus is mentioned below :
-# Unit 1
+# C Programming : 
 C Programming Language: Introduction, Importance of C, Character set, Tokens, keywords,
 identifier, constants, basic data types, variables: declaration & assigning values. Structure of
 C program
